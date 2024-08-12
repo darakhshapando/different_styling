@@ -1,0 +1,19 @@
+.width-full {
+  width: 100%;
+}
+
+.height-medium {
+  height: 200px;
+}
+
+.max-width-container {
+  max-width: 1200px;
+}
+
+.width-auto {
+  width: auto;
+}
+
+.height-auto {
+  height: auto;
+}

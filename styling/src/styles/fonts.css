@@ -1,0 +1,15 @@
+.font-large {
+  font-size: 2em;
+}
+
+.font-small {
+  font-size: 0.8em;
+}
+
+.font-family-sans {
+  font-family: Arial, sans-serif;
+}
+
+.font-family-serif {
+  font-family: 'Times New Roman', serif;
+}

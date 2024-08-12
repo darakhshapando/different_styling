@@ -1,0 +1,21 @@
+.link-style {
+  color: #00f;
+  text-decoration: none;
+}
+
+.link-style:hover {
+  text-decoration: underline;
+}
+
+.link-button {
+  display: inline-block;
+  padding: 10px 20px;
+  color: white;
+  background-color: #007bff;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.link-button:hover {
+  background-color: #0056b3;
+}

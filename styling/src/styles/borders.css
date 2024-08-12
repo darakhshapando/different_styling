@@ -1,0 +1,16 @@
+.border-red {
+  border: 2px solid red;
+}
+
+.border-blue {
+  border: 2px solid blue;
+}
+
+.border-dashed {
+  border: 3px dashed gray;
+}
+
+.border-rounded {
+  border: 2px solid green;
+  border-radius: 12px;
+}

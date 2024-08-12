@@ -1,0 +1,11 @@
+.background-blue {
+  background-color: #00f;
+}
+
+.background-green {
+  background-color: #0f0;
+}
+
+.background-gradient {
+  background: linear-gradient(45deg, rgba(255, 0, 102, 0.164), #f79);
+}

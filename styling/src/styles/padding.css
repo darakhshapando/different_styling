@@ -1,0 +1,15 @@
+.padding-small {
+  padding: 10px;
+}
+
+.padding-medium {
+  padding: 20px;
+}
+
+.padding-large {
+  padding: 30px;
+}
+
+.padding-vertical {
+  padding: 15px 0;
+}
